@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER NORD — Modern Apparel & Merchandise",
+  "description": "Architectural streetwear and luxury essential merchandise featuring heavyweight shirts, tailored coats, and structured headwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
